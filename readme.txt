@@ -1,3 +1,0 @@
---Cách chạy code: Sử dụng XAMPP để dùng php, apache và mysql.
---Bấm vào nút Admin trong XAMPP để vào localhost, vì nút Admin sẽ mặc định tìm file index.php nên nó  sẽ mở ra sẵn.
---Vì đã được setting nên phải đăng nhập mới vào được trang chính. Theo username là: admin , password là: 123456.
